@@ -1,6 +1,6 @@
 
 # Man_climbing_coconut_tree
-A simple animation created using graphics.h library in C programming language. The animation depicts a man climbing a coconut tree to pluck some coconuts. A coconut falls from the tree and the man climbs down with the coconuts.
+A simple animation created using graphics.h library in C++. The animation depicts a man climbing a coconut tree to pluck some coconuts. A coconut falls from the tree and the man climbs down with the coconuts.
 
 Here is a brief explanation of the code:
 
